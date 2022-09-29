@@ -5,15 +5,15 @@
 
 - 📚 I'm currently studying at [Rocketseat](https://github.com/Rocketseat).
 
-## 💬 Ask me about
+### 💬 Ask me about
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-## 📬 Contact
+### 📬 Contact
 
 <p align="left">
 <a href="https://codepen.io/renkensg" target="_blank">
