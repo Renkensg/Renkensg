@@ -7,7 +7,7 @@
 
 ## 💬 Ask me about
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) &nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) &nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 🌱 I'm currently learning
 
@@ -17,17 +17,13 @@
 
 <p align="left">
 <a href="https://codepen.io/renkensg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=codepen" alt="codepen"/></a>&nbsp;
 <a href="https://github.com/Renkensg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=github" alt="github"/>  
-</a>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=github" alt="github"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/guilherme-renkens-22b573186/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>&nbsp;
 <a href="https://www.instagram.com/renkensg/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>&nbsp;
+ <img align="center" src="https://img.shields.io/badge/-renkensg-05122A?style=flat&logo=instagram" alt="instagram"/></a>&nbsp;
 </p>
 
 <!-- <p align="right">
