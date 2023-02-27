@@ -3,7 +3,7 @@
 
 - ⚜️ Junior Web Developer Student & Community manager focused on helping people with their initial problems.
 
-- 📚 I'm currently studying at [Rocketseat](https://github.com/Rocketseat).
+- 📚 I'm currently studying at [App Academy Open](https://github.com/appacademy).
 
 ### 💬 Ask me about
 
