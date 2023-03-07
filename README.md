@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="20px"> Hi, I'm Guilherme Renkens</h1>
+<h1 align="center"><img src="https://tenor.com/pt-BR/view/hi-gif-23520343" height="20px"> Hi, I'm Guilherme Renkens</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renkensg&color=blue" alt="Profile views" /></p>
 
 - ⚜️ Junior Web Developer Student & Community manager focused on helping people with their initial problems.
