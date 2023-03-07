@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm Guilherme Renkens</h1>
+<h1 align="center"><img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="20px"> Hi, I'm Guilherme Renkens</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renkensg&color=blue" alt="Profile views" /></p>
 
 - ⚜️ Junior Web Developer Student & Community manager focused on helping people with their initial problems.
